@@ -7,7 +7,7 @@ route("/") do
 end
 
 route("/ugh") do
-  "Hello - Welcome to Genie!"
+  "FUCKING UGH"
 end
 
 route("/hello") do
