@@ -1,9 +1,9 @@
 using Genie, Genie.Router
 using Genie.Renderer, Genie.Renderer.Html, Genie.Renderer.Json
 
-
 route("/") do
-  serve_static_file("welcome.html")
+#  serve_static_file("welcome.html")
+  "Fuck off this is not something useful for you. Try something else"
 end
 
 route("/ugh") do
